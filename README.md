@@ -10,19 +10,19 @@ Backend: Using Python with the Django 4.2 framework, our backend will be highly 
 
 Frontend: The frontend will be built with ReactJS, providing an engaging and responsive user experience.
 
-Multi Cloud: The application will be deployed across multiple clouds to ensure high availability and scalability. This will demonstrate proficiency in multicloud architecture.
+Multi-Cloud: The application will be deployed across multiple clouds to ensure high availability and scalability. This will demonstrate proficiency in multi-cloud architecture.
 
 Project Objectives:
 
-Full Cycle Development: This project aims to demonstrate the ability to act as a Full Cycle developer, covering all software development layers, from backend creation, frontend development, to deployment in multicloud environments.
+Full Cycle Development: This project aims to demonstrate the ability to act as a Full Cycle developer, covering all software development layers, from backend creation, frontend development, to deployment in multi-cloud environments.
 
 Robustness and Scalability: "Talent Pool" will be designed to be robust and scalable, capable of handling a large volume of candidates and job listings, showcasing the ability to design high-performance systems.
 
-User Experience: The ReactJS frontend will provide a pleasant user experience with an intuitive and responsive interface, demonstrating a commitment to usability.
+User Experience: The ReactJS front end will provide a pleasant user experience with an intuitive and responsive interface, demonstrating a commitment to usability.
 
 Security and Data Protection: The application will adhere to best security practices to ensure the protection of personal data of candidates and recruiters.
 
-Multicloud Deployment: Deployment across multiple clouds will demonstrate proficiency in creating multicloud architectures, ensuring high availability and redundancy.
+multi-cloud Deployment: Deployment across multiple clouds will demonstrate proficiency in creating multi-cloud architectures, ensuring high availability and redundancy.
 
 Expected Outcomes:
 
